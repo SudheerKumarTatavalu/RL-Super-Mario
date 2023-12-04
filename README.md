@@ -2,10 +2,10 @@
 # Train a Mario-playing RL Agent
 
 ```
-# %%bash
-# pip install gym-super-mario-bros==7.4.0
-# pip install tensordict==0.2.0
-# pip install torchrl==0.2.0
+%%bash
+pip install gym-super-mario-bros==7.4.0
+pip install tensordict==0.2.0
+pip install torchrl==0.2.0
 ```
 ```
 import torch
